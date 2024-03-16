@@ -25,11 +25,18 @@ Abaixo uma descrição completa deste atributos:
 
 
 *Conteúdo*
+
 Descrição dos dados
+
 Exploração dos dados
+
 Transformação e limpeza de dados
+
 Visualização dos dados
+
 Análise Univariada
+
 Análise Bivariada
+
 Conclusão
 
