@@ -1,4 +1,4 @@
-# Introdução
+### Contexto
 
 O dataset a ser analisado contém informações sobre clientes de uma instituição financeira. Em especial, estamos interessados em explicar a segunda coluna, chamada de default, que indica se um cliente é adimplente(default = 0), ou inadimplente (default = 1), ou seja, queremos entender o porque um cliente deixa de honrar com suas dívidas baseado no comportamento de outros atributos, como salário, escolaridade e movimentação financeira.
 
@@ -23,16 +23,13 @@ Abaixo uma descrição completa deste atributos:
 | valor_transacoes_12m | Soma total do valor das transações no cartão de crédito no último ano |
 | qtd_transacoes_12m | Quantidade total de transações no cartão de crédito no último ano |
 
-Contexto
-2 Descrição dos dados
-3 Exploração dos dados
-4 Transformação e limpeza de dados
-5 Visualização dos dados
-6 Análise Univariada
-7 Análise Bivariada
-8 Conclusão
 
+*Conteúdo*
+Descrição dos dados
+Exploração dos dados
+Transformação e limpeza de dados
+Visualização dos dados
+Análise Univariada
+Análise Bivariada
+Conclusão
 
-
-# <a name="1">Parte 1</a>
-[Voltar ao Topo](#voltar)
