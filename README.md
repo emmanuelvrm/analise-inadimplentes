@@ -1,5 +1,8 @@
 # Análise de Inadimplentes
 
+[![App online](https://img.shields.io/badge/App%20online-Railway-7c3aed?logo=railway&logoColor=white)](https://portfolio-app-production-d745.up.railway.app/inadimplentes)  
+> 🚀 **Demo interativa:** https://portfolio-app-production-d745.up.railway.app/inadimplentes
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmanuelvrm/analise-inadimplentes/blob/main/notebooks/Analise_Inadimplentes.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
